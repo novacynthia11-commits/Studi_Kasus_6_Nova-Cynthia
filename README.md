@@ -29,7 +29,7 @@ Pada bagian ini, Pengguna diminta untuk menginputkan menu pilihan yang ingin Pen
 Pada salah satu bagian menu pilihan ini, Pengguna hanya dapat melihat data saat ini dan seteleah diperbarui. <br>
 <img width="300" alt="Screenshot 2026-10-07 213727" src="https://github.com/user-attachments/assets/9a406775-9867-4450-b185-e9c66c58d845" />
 ### Output Input atau Menambahkan
-Pada salah satu bagian menu pilihan ini, Pengguna dapat menginputkan nama, NIM, dan nilai untuk menambahkannya ke data JSON dan disimpan. Namun, apabila Pengguna tidak memasukkan nama atau NIM maka program tidak akan menambahkan data tersebut, lalu rogram akan melakukan *looping* sampai Pengguna menginputkan nama atau NIM.
+Pada salah satu bagian menu pilihan ini, Pengguna dapat menginputkan nama, NIM, dan nilai untuk menambahkannya ke data JSON dan disimpan. Namun, apabila Pengguna tidak memasukkan nama atau NIM maka program tidak akan menambahkan data tersebut, lalu rogram akan melakukan *looping* sampai Pengguna menginputkan nama atau NIM. <br>
 <img width="400" alt="Screenshot 2026-10-07 214120" src="https://github.com/user-attachments/assets/4da580af-26e2-4c41-91a1-7b401a34a4a1" />
 <br>
 #### Output apabila tidak memasukkan nama atau NIM <br>
@@ -37,6 +37,7 @@ Pada salah satu bagian menu pilihan ini, Pengguna dapat menginputkan nama, NIM, 
 <img width="300" alt="Screenshot 2026-10-07 214302" src="https://github.com/user-attachments/assets/ed323851-7d75-42db-8b32-4830d32f840d" />
 
 ### Output Lihat Data Setelah Ditambahkan
+Berikut hasil output apabila data ditambahkan. Data tersebut akan tersimpan meskipun Pengguna keluar dari program tersebut.
 <img width="300" alt="Screenshot 2026-10-07 214302" src="https://github.com/user-attachments/assets/627b1707-c603-4564-9a47-4e26c2cb613d" />
 
 
