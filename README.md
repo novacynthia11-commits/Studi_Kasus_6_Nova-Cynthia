@@ -39,6 +39,10 @@ Pada salah satu bagian menu pilihan ini, Pengguna dapat menginputkan nama, NIM, 
 Berikut hasil output apabila data ditambahkan. Data tersebut akan tersimpan meskipun Pengguna keluar dari program tersebut. <br>
 <img width="300" alt="Screenshot 2026-10-07 214302" src="https://github.com/user-attachments/assets/627b1707-c603-4564-9a47-4e26c2cb613d" />
 
+## BUKTI DATA TERSIMPAN KETIKA PENGGUNA KELUAR DARI PROGRAM
+<img width="300" alt="Screenshot 2026-10-07 222439" src="https://github.com/user-attachments/assets/d0862f7e-a2e4-4511-ae44-72b8f616910d" />
+
+
 
 
 
