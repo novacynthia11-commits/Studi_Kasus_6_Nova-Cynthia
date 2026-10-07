@@ -3,7 +3,7 @@
 **NIM :** 2609116031 <br>
 **Program Studi :** Sistem Informasi <br>
 **Kelas :** A 2026 <br>
-**Mata Kuliah :** Dasar-Dasar Pemograman <br>
+**Mata Kuliah :** Pratikum Dasar Pemograman <br>
 
 ## DESKRIPSI
 Program ini digunakan untuk keperluan guru atau dosen dalam menginput nilai tugas atau nilai ujian. Data yang sudah diinput tidak akan hilang ketika Pengguna keluar dari program. Saya menggunakan data JSON untuk menyimpan semua inputtan Pengguna, berikut kode-kode yang saya gunakan : <br>
